@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="wrapper">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots-abilities/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots-abilities/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots-chat-session-bot/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots-extensions/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots-extensions/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots-meta/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots-meta/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots-spring-boot-starter/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots-spring-boot-starter/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../TelegramBots-master/telegrambots/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
